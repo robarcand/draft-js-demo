@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Editor, EditorState, RichUtils } from 'draft-js';
-// import '../node_modules/draft-js/dist/Draft.css';
-import StyleButton from './StyleButton';
 import BlockStyleControls from './BlockStyleControls';
 import InlineStyleControls from './InlineStyleControls';
 
